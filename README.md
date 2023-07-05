@@ -24,7 +24,7 @@ This repository contains a code snippet for creating a simple web server using N
 
 1. Clone or download this repository.
 
-2. Open the `433MHz_Receiver_Log.ino` file in the Arduino IDE.
+2. Open the `arduino-443mhz-web-ui.ino` file in the Arduino IDE.
 
 3. Install the required libraries:
    - `ESP8266WiFi`: Install via Arduino Library Manager.
